@@ -1,0 +1,44 @@
+node-run-queue (2.0.0-2) unstable; urgency=medium
+
+  * Team upload
+  * Modernize debian/watch
+  * Fix GitHub tags regex
+  * Update standards version to 4.6.0, no changes needed.
+
+ -- Yadd <yadd@debian.org>  Sun, 10 Oct 2021 15:46:35 +0200
+
+node-run-queue (2.0.0-1) unstable; urgency=medium
+
+  * Team upload
+
+  [ Jelmer Vernooĳ ]
+  * Trim trailing whitespace.
+  * Use secure copyright file specification URI.
+
+  [ Debian Janitor ]
+  * Trim trailing whitespace.
+  * Bump debhelper from old 9 to 12.
+  * Set debhelper-compat version in Build-Depends.
+  * Set upstream metadata fields: Bug-Database, Bug-Submit, Repository,
+    Repository-Browse.
+  * Update Vcs-* headers from URL redirect.
+  * Use canonical URL in Vcs-Git.
+  * Update standards version to 4.1.1, no changes needed.
+
+  [ Xavier Guimard ]
+  * Bump debhelper compatibility level to 13
+  * Declare compliance with policy 4.5.0
+  * Add "Rules-Requires-Root: no"
+  * Add debian/gbp.conf
+  * Use dh-sequence-nodejs auto install
+  * Enable upstream test using tap
+  * New upstream version 2.0.0
+  * Update copyright
+
+ -- Xavier Guimard <yadd@debian.org>  Mon, 26 Oct 2020 12:14:33 +0100
+
+node-run-queue (1.0.3-1) unstable; urgency=low
+
+  * Initial release (Closes: #868516)
+
+ -- Rajeev R Menon <icyfire@disroot.org>  Thu, 28 Sep 2017 17:53:21 +0000
