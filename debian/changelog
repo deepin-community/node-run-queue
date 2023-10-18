@@ -1,3 +1,10 @@
+node-run-queue (2.0.0-3) unstable; urgency=medium
+
+  [ Debian Janitor ]
+  * Apply multi-arch hints. + node-run-queue: Add Multi-Arch: foreign.
+
+ -- Jelmer Vernooĳ <jelmer@debian.org>  Tue, 22 Nov 2022 14:48:42 +0000
+
 node-run-queue (2.0.0-2) unstable; urgency=medium
 
   * Team upload

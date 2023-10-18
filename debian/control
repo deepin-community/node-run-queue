@@ -18,6 +18,7 @@ Package: node-run-queue
 Architecture: all
 Depends: ${misc:Depends}
  , node-aproba
+Multi-Arch: foreign
 Description: promise based dynamic priority queue runner
  A promise based, dynamic priority queue runner, with concurrency limiting.
  .
